@@ -1,4 +1,5 @@
 # GettingAndCleaningDataProject
+## Coursera Getting and Cleaning Data Project
 # below is the R script
 run_analysis <- function(dirfolder){
   ##need dplyr
